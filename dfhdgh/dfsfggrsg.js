@@ -1,0 +1,1 @@
+const skkd = 1;
